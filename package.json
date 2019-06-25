@@ -1,5 +1,5 @@
 {
-  "name": "react-common-components",
+  "name": "common-components",
   "version": "0.0.1",
   "description": "A library for commonly used react components",
   "main": "build/index.js",
