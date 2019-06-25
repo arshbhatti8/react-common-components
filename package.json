@@ -1,0 +1,28 @@
+{
+  "name": "react-common-components",
+  "version": "0.0.1",
+  "description": "A library for commonly used react components",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "babel src -d build",
+    "prepare": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshbhatti8/react-common-components.git"
+  },
+  "author": "Arsh Bhatti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arshbhatti8/react-common-components/issues"
+  },
+  "homepage": "https://github.com/arshbhatti8/react-common-components#readme",
+  "dependencies": {
+    "babel-cli": "6.26.0",
+    "babel-preset-env": "1.7.0",
+    "babel-preset-react": "6.24.1",
+    "babel-preset-stage-0": "6.24.1",
+    "react": "16.8.6"
+  }
+}
